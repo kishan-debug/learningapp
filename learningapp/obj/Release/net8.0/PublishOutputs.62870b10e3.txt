@@ -1,0 +1,7 @@
+C:\Users\Kishan patil\Desktop\Courses\AZ-204\learningapp\bin\Publish\learningapp.exe
+C:\Users\Kishan patil\Desktop\Courses\AZ-204\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\Kishan patil\Desktop\Courses\AZ-204\learningapp\bin\Publish\appsettings.json
+C:\Users\Kishan patil\Desktop\Courses\AZ-204\learningapp\bin\Publish\learningapp.dll
+C:\Users\Kishan patil\Desktop\Courses\AZ-204\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\Kishan patil\Desktop\Courses\AZ-204\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\Kishan patil\Desktop\Courses\AZ-204\learningapp\bin\Publish\learningapp.pdb
